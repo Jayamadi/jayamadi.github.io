@@ -1,0 +1,34 @@
+@charset "UTF-8";
+/* CSS Document */
+.sponsor-locations p{
+	text-align: center;
+	color:#C0AF9F;
+	}
+.sponsor-locations-list p{
+	color:#000;
+	font-size: 95%;
+	}
+.sponsor-hero{
+	background: url(https://dummyimage.com/1420x600/9c9c9c/404040) center no-repeat;
+	background-size:cover;
+	}
+.cta-sponsor{
+	background-color: #00884a;
+	color:RGBA(255,255,255,1);
+	font-size: 1.3em;
+	font-weight:normal;
+	text-decoration: none;
+	}
+.cta-sponsor:hover{color:RGBA(255,255,255,0.7);}
+.bottom-sponsor{
+	background-color: #00884a; 	
+	color: #FFF;
+	}
+
+@media (max-width: 740px) {
+	.sponsor-hero{background: url(https://dummyimage.com/1420x600/9c9c9c/404040) center no-repeat; background-size:cover;}
+	h1{width:100% !important;}
+}
+
+
+
