@@ -486,13 +486,13 @@ aside a:hover{color:RGBA(255,255,255,0.7); font-weight:normal;}
 }
 
 .o-gallery__control--next {
-    background-image: url('../img/arrow-right.png') !important;
-    background-image: url('../img/arrow-right.png') !important;
+    background-image: url('https://jayamadi.github.io/img/arrow-right.png') !important;
+    background-image: url('https://jayamadi.github.io/img/arrow-right.png') !important;
 }
 
 .o-gallery__control--prev {
-    background-image: url('../img/arrow-left.png') !important;
-    background-image: url('../img/arrow-left.png') !important;
+    background-image: url('https://jayamadi.github.io/img/arrow-left.png') !important;
+    background-image: url('https://jayamadi.github.io/img/arrow-left.png') !important;
 }
 
 .o-overlay-shadow {
